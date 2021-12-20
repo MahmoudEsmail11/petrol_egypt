@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "83649448706",
+    "project_id": "mahmoud-5200e",
+    "storage_bucket": "mahmoud-5200e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83649448706:android:230aa1f8e551d3c3f8901b",
+        "android_client_info": {
+          "package_name": "com.example.graduation_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83649448706-2rq5f19lp1op978sckg742r1ai03r7uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFQy2G64JC39cvcPyMzFUm9BvCShBBuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83649448706-2rq5f19lp1op978sckg742r1ai03r7uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83649448706:android:277280017f63db63f8901b",
+        "android_client_info": {
+          "package_name": "com.example.petrolegypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83649448706-2rq5f19lp1op978sckg742r1ai03r7uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzFQy2G64JC39cvcPyMzFUm9BvCShBBuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83649448706-2rq5f19lp1op978sckg742r1ai03r7uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Petrol Egypt </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="color">
+        <item>select car color</item>
+        <item>red </item>
+        <item>blue</item>
+        <item>black</item>
+    </string-array>
+
+
+</resources>
